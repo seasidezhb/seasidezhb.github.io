@@ -70,4 +70,7 @@ theme: next
 deploy:
   type: git
   repository: https://github.com/seasidezhb/seasidezhb.github.io.git 
-  branch: master
+  branch: master 
+  
+include:
+  - .nokekyll
